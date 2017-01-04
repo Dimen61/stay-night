@@ -4,8 +4,10 @@
 ## 缘起
 上次去参见浙大校友会**毅行**的时候，看到这样一幅标语：
 
-	一个人或许能走得更快，但一群人能够走得更远
-	
+```
+一个人或许能走得更快，但一群人能够走得更远
+```
+
 自己深以为然。
 
 现在，自己准备刷**leetcode**，至于为什么要刷题可以参考这篇[文章](http://selfboot.cn/2016/07/24/leetcode_guide_why/)。
@@ -23,28 +25,90 @@
 ## 规则
 
 1. 最多七个人参与一次的圣杯战争，每个人需要从以下七个英灵中选择一个作为自己的英灵，不能重复, 先到先得。可以把英灵理解为自己在这个刷题游戏中所操控的角色，也可以认为自己是借助英灵的力量来刷题。借助这种中二方式，把刷题看成是一个游戏，减少自己刷题时的痛苦。英灵如下：
-	* Saber
-	* Archer
-	* Lancer
-	* Rider
-	* Berserker
-	* Caster
-	* Assassin 
-	
-	英灵指的是从事某个职业的英雄，我们可以自己从历史、游戏中选择自己想要的英雄。例如，我从《吸血鬼猎人D》里面选择D，作为我英灵Saber.
-	
-	![image](./images/D.jpeg)
-	
-	当然，可以选赵云作为Rider,等等。
-	
+   * Saber
+   * Archer
+   * Lancer
+   * Rider
+   * Berserker
+   * Caster
+   * Assassin 
+
+   英灵指的是从事某个职业的英雄，我们可以自己从历史、游戏中选择自己想要的英雄。例如，我从《吸血鬼猎人D》里面选择D，作为我英灵Saber.
+
+   ![image](./images/D.jpeg)
+
+   当然，可以选赵云作为Rider,等等。
+
 2. 大家在github建立自己刷题的仓库，互相star，关注大家刷题的进度，给自己peer pressure.
 
 3. 每两周，每个人立一个flag，自己刷题的目标是什么，要刷多少道。两周是一个不长不短的时间，算是一个**小小的里程碑**吧，大家两周结束的时候出来聚一次嗨一下，也算是奖励一下自己。没有完成目标的人，负责买单；大家都完成了目标，则AA。用这种方式激励大家一定要努力完成计划。此外，大家可以看见别人的计划是怎样的，避免了自己制定的计划贪功冒进，制定很难完成的计划，从而自信心受到打击。同时，也避免自己制定的计划太水，自己的进度过慢。毕竟，大家情况不一样，基础不同，而且还有工作和生活上的事情，制定计划，立flag应该理性，不然就等着买单吧:)
 
 4. 大家应该多在微信群里面讨论题目，或总结自己刷题经验或算法，群昵称用英灵的职业代替，例如我用“Saber”。毕竟通过讨论，给别人讲题，提供了自己输出知识的机会。正如[费曼学习法](https://www.zhihu.com/question/20576786)所说的那样，输出知识，能够让自己理解得更透彻，而我们刷leetcode不就是为了对典型题目更熟练，对算法的理解更透彻吗?
 
+## Masters
 
+### Dimen61
 
+* 英灵：D (吸血鬼猎人D)
+* 职业: Saber
+
+   ![image](./images/D3.jpg)
+
+* [Leetcode仓库](https://github.com/Dimen61/leetcode)
+
+### HomeHow
+
+* 英灵：李信(战国)
+* 职业: Archer
+
+   ![image](./images/2.jpg)
+
+* [Leetcode仓库](https://github.com/HomeHow/myLeetCode)
+
+### Fanxumin
+
+* 英灵: 三井寿(灌篮高手)
+* 职业: Lancer
+
+   ![image](./images/3.jpg)
+
+* [Leetcode仓库](https://github.com/fanxumin/fxm_leetcode)
+
+### Lilypen
+
+* 英灵：神乐(银魂)
+* 职业: Rider
+
+   ![image](./images/4.jpg)
+
+* [Leetcode仓库](https://github.com/lilypen/leetcode)
+
+### Richy Leong
+
+* 英灵：兰斯洛特(Fate/zero)
+* 职业：Berserker
+
+   ![image](./images/5.jpg)
+
+* [Leetcode仓库](https://github.com/popo919/leet_Berserker)
+
+### Hechaocaho
+
+* 英灵：葫芦娃
+* 职业：Caster
+
+   ![image](./images/6.jpg)
+
+* [Leetcode仓库](https://github.com/hechaochao/LeetCode)
+
+### Code-Guy
+
+* 英灵：孙悟空(龙珠)
+* 职业: Assassin
+
+   ![image](./images/7.jpg)
+
+* [Leetcode仓库](https://github.com/Code-guy/LeetCode)
 
 
 
